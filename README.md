@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/nokerlogo.png" alt="Noker Logo" width="200"/>
+  <img src="assets/nokerlogo.png" alt="Noker Logo" width="400"/>
 </p>
 
 <h1 align="center">Noker</h1>
