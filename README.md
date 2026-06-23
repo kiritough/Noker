@@ -5,11 +5,9 @@
 <h1 align="center">Noker</h1>
 
 <p align="center">
-  <b>Make files make sense.</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/version-Alpha%200.1-white?style=flat-square" alt="Version"/>
+  <a href="https://github.com/kiritough/Noker/blob/main/ALPHA_0.1.md">
+    <img src="https://img.shields.io/badge/version-Alpha%200.1-white?style=flat-square" alt="Version"/>
+  </a>
   <img src="https://img.shields.io/badge/license-MIT-white?style=flat-square" alt="License"/>
   <img src="https://img.shields.io/badge/built%20with-Kotlin%20Multiplatform-white?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/>
   <img src="https://img.shields.io/badge/status-In%20Development-white?style=flat-square" alt="Status"/>
