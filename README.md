@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/version-Alpha%200.1-black?style=flat-square&color=000000&labelColor=000000&color=FFFFFF" alt="Version"/>
   </a>
   <a href="https://github.com/kiritough/Noker/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-black?style=flat-square&color=FFFFFF&labelColor=FFFFFF&color=000000" alt="License"/>
+    <img src="https://img.shields.io/badge/license-MIT-1-black?style=flat-square&color=000000&labelColor=000000&color=FFFFFF"  alt="License"/>
   </a>
   <a href="https://kotlinlang.org/">
     <img src="https://img.shields.io/badge/built%20with-Kotlin%20Multiplatform-black?style=flat-square&color=000000&labelColor=000000&color=FFFFFF" alt="Kotlin Multiplatform"/>
