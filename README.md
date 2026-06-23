@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/built%20with-Kotlin%20Multiplatform-black?style=flat-square&color=000000&labelColor=000000&color=FFFFFF" alt="Kotlin Multiplatform"/>
   </a>
   <a href="https://github.com/kiritough/Noker">
-    <img src="https://img.shields.io/badge/status-In%20Development-white?style=flat-square&color=FFFFFF&labelColor=FFFFFF&color=000000" alt="Status"/>
+    <img src="https://img.shields.io/badge/status-In%20Development-black?style=flat-square&color=000000&labelColor=000000&color=FFFFFF" alt="Status"/>
   </a>
 </p>
 ---
