@@ -4,19 +4,18 @@
 
 <p align="center">
   <a href="https://github.com/kiritough/Noker/blob/main/ALPHA_0.1.md">
-    <img src="https://img.shields.io/badge/version-Alpha%200.1-white?style=flat-square" alt="Version"/>
+    <img src="https://img.shields.io/badge/version-Alpha%200.1-black?style=flat-square&color=000000&labelColor=000000&color=FFFFFF" alt="Version"/>
   </a>
   <a href="https://github.com/kiritough/Noker/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-white?style=flat-square" alt="License"/>
+    <img src="https://img.shields.io/badge/license-MIT-white?style=flat-square&color=FFFFFF&labelColor=FFFFFF&color=000000" alt="License"/>
   </a>
   <a href="https://kotlinlang.org/">
-    <img src="https://img.shields.io/badge/built%20with-Kotlin%20Multiplatform-white?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/>
+    <img src="https://img.shields.io/badge/built%20with-Kotlin%20Multiplatform-black?style=flat-square&color=000000&labelColor=000000&color=FFFFFF" alt="Kotlin Multiplatform"/>
   </a>
   <a href="https://github.com/kiritough/Noker">
-    <img src="https://img.shields.io/badge/status-In%20Development-white?style=flat-square" alt="Status"/>
+    <img src="https://img.shields.io/badge/status-In%20Development-white?style=flat-square&color=FFFFFF&labelColor=FFFFFF&color=000000" alt="Status"/>
   </a>
 </p>
-
 ---
 
 Noker is a local-first workspace that sits on top of your existing files — without touching them, moving them, or locking them inside a proprietary format.
