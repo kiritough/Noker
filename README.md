@@ -77,6 +77,16 @@ The repository will be updated as development progresses. Follow the project to 
 
 ---
 
+## Research & Experiment
+
+New ideas and experimental implementations don't go directly into Noker. They are built, tested, and validated in a separate research repository first.
+
+[Noker Logos – Experiment Project](https://github.com/kiritough/Noker-Logos-Experiment) is the engineering subsystem where the first versions of future Noker features take shape. Everything that proves its value there eventually becomes part of this project.
+
+**[Noker Logos – Experiment Project →](https://github.com/kiritough/Noker-Logos-Experiment)**
+
+---
+
 ## Documentation
 
 - [Vision](VISION.md) — why Noker exists and where it's going
