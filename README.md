@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/status-In%20Development-black?style=flat-square&color=000000&labelColor=000000&color=FFFFFF" alt="Status"/>
   </a>
 </p>
----
 
 Noker is a local-first workspace that sits on top of your existing files — without touching them, moving them, or locking them inside a proprietary format.
 
